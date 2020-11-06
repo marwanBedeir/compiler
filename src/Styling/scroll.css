@@ -1,0 +1,4 @@
+.scroll {
+    -fx-hbar-policy: never;
+    -fx-vbar-policy: never;
+}
